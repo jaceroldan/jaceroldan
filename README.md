@@ -13,3 +13,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing StarCraft 2, and though I might not really be that good at it, one of the items in my bucket list is to be able to build a win-prediction model for StarCraft 2 matches.
 
+Know more about what I'm doing by visiting https://jaceroldan.github.io!
