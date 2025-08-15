@@ -11,6 +11,6 @@
 - 💬 Ask me about anything related to deep learning and natural language processing concepts! I'm also an avid programmer and constantly looking to improve my skills in Python, JavaScript, and C and get to learn new performant languages like Rust.
 - 📫 How to reach me: For academic things, my university email is jtroldan@up.edu.ph! My professional email is jaceroldan16@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing StarCraft 2, and though I might not really be that good at it, one of the items in my bucket list is to be able to build a win-prediction model for StarCraft 2 matches.
+- ⚡ Fun fact: I love playing StarCraft 2, and though I might not really be that good at it, one of the items in my bucket list is to be able to build a win-prediction model for StarCraft 2 matches. I also maintain a 1,800-day Duolingo streak across multiple languages, including French, Spanish, Korean, and Swahili (username: https://www.duolingo.com/profile/Jaceeeeee). I’m committed to lifelong learning and cultural fluency!
 
 Know more about what I'm doing by visiting https://jaceroldan.github.io!
